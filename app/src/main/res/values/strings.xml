@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Facebook Login</string>
+    <string name="cover_image">cover_image</string>
+    <string name="or">OR</string>
+    <string name="tv_languages">English . Espanol .</string>
+    <string name="btn_languages">More...</string>
+    <string name="ed_mail">Email or Phone</string>
+    <string name="ed_password">Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="btn_forget">FORGOT PASSWORD?</string>
+    <string name="btn_newaccount">CREAT NEW FACEBOOK ACCOUNT</string>
+</resources>
